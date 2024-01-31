@@ -6,10 +6,10 @@ function Links(props) {
     <div>
       <h3>Links</h3>
       <a href={props.github} target="_blank">
-        GitHub
+        https://github.com/liza
       </a>
       <a href={props.linkedin} target="_blank">
-        LinkedIn
+        https://www.linkedin.com/in/liza/
       </a>
     </div>
   );
